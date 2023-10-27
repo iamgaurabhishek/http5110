@@ -5,7 +5,7 @@ A repo to store files for HTTP5110
 
 Here we are creating basic website look out, where the different components like header, footer, left, center, right are being implemented with some links.
 
-![image of the C# output](/http5110/_ReadMe/SSsmallWebsite.png);
+![image of the small Website output](/http5110/_ReadMe/SSsmallWebsite.png);
 ### HTML code view:
 <div>
     <div>
