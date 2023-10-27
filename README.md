@@ -4,6 +4,8 @@ A repo to store files for HTTP5110
 ## The fundamentals of HTML and CSS
 
 Here we are creating basic website look out, where the different components like header, footer, left, center, right are being implemented with some links.
+
+![image of the C# output](/http5110/_ReadMe/SSsmallWebsite.png);
 ### HTML code view:
 <div>
     <div>
